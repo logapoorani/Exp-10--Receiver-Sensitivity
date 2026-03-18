@@ -72,3 +72,16 @@ Your report should include:
 - Discussion of differences between analytical and simulation results.  
 
 ---
+## Tabulation
+<img width="778" height="1600" alt="image" src="https://github.com/user-attachments/assets/85ebfb6d-c299-4140-8cab-a9ec8a50c3f2" />
+
+## Graph
+<img width="1286" height="722" alt="Screenshot 2026-03-18 103702" src="https://github.com/user-attachments/assets/a1677782-0e3b-4cf7-b482-9ae89087b125" />
+
+## Result
+```
+ The sensitivity of a PIN photodiode-based optical receiver is determined by calculating the minimum received power necessary to achieve a given Q factor and also simulated result is compared with obtained analytically.
+```
+
+
+
