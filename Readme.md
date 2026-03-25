@@ -61,6 +61,11 @@ Steps:
 4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
 
 ---
+## Block Diagram
+<img width="521" height="328" alt="image" src="https://github.com/user-attachments/assets/01c28690-a1c4-441b-b93f-eaee43d3df94" />
+
+## Graph
+<img width="743" height="582" alt="image" src="https://github.com/user-attachments/assets/a143e09f-01ec-4108-87b8-351f438eb77a" />
 
 ## Report
 Your report should include:
